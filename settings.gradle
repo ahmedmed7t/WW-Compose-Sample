@@ -1,0 +1,4 @@
+rootProject.name = "WW Compose Sample"
+
+//rootProject.name = "WW Compose Sample"
+include ':app'
